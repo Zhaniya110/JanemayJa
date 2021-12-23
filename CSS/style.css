@@ -116,3 +116,26 @@ p {
   justify-content: center;
   align-items: center;
 }
+ex--primary {
+  color: #a4a2a8;
+}
+.search {
+  width: 45%;
+  height: 20px;
+  padding: 10px;
+  border: solid #1b0760;
+  border-radius: 40%;
+  background-color: rgb(224, 224, 224);
+  justify-content: center;
+  align-items: flex-end;
+}
+.buts {
+  background-color: var(--color-accent);
+  display: flex;
+  width: 40px;
+  height: 100px;
+}
+
+body {
+  padding: 20px;
+}
